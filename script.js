@@ -1,0 +1,1 @@
+console.log('Singh Tour Agency (AI images) loaded');
